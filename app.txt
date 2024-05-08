@@ -1,0 +1,2 @@
+// implement a middleware function in express.js that checks for a valid JWD token in the request
+headers and grant access to protected routes if the token is valid
